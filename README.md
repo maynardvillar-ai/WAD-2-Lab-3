@@ -4,3 +4,5 @@ In this project, I used controllers, routes and Blade templates to create a stru
 My website contains 3 Controllers (Home, About and Contact). Each page is handled by its own controller and rendered using Blade templates. I also added custom CSS styling to improve the design and layout.
 
 I developed this project as part of Laboratory 3 to practice Laravel fundamentals such as routing, MVC structure and Blade templating.
+
+![Home Page Screenshot](home.png)
