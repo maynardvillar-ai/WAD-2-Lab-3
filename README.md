@@ -5,4 +5,4 @@ My website contains 3 Controllers (Home, About and Contact). Each page is handle
 
 I developed this project as part of Laboratory 3 to practice Laravel fundamentals such as routing, MVC structure and Blade templating.
 
-![Home](home.png)
+![Home](Home.png)
